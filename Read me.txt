@@ -1,0 +1,17 @@
+*Read Me!!!*
+
+Course Code: ITC2205
+
+Course Title: Web Programming
+	
+Project Topic: The project topic for this group is an e-commerce platform that is built with only HTML and CSS, the platform is called FOODY TREATS & BITES. This e-commerce site serves as a way to make orders for your 
+preferred treaties, foods and snacks which depends of your preference. Thank You.
+
+
+S/N	Name					Reg No.	Status
+
+1.	Rabiu Haruna Abdulra’uf		UG19ICT1050	Leader
+2.	Abdulsalam Musa Abdulhamid	UG19ICT1022	Assistant 
+3.	Shehu Aisha Jummai		UG19ICT1170	Member
+4.	Asiya Bello Ahmad 		UG19ICT1033	Member 
+5.	Mariya Mahmoud Haruna 		UG19ICT1145	Member
